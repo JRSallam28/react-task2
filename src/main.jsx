@@ -312,7 +312,7 @@ createRoot(document.getElementById("root")).render(
             </div>
             <div className="flex min-w-0 h-[260px] lg:h-[370px] flex-col rounded-xl bg-[#F6F6F6] p-2 lg:p-4">
               <img
-                src="/public/Iphone 14 pro 1.png"
+                src="Iphone 14 pro 1.png"
                 alt="iPhone 14 Pro"
                 className="h-[105px] lg:h-[180px] w-full shrink-0 rounded-lg object-cover"
               />
@@ -335,7 +335,7 @@ createRoot(document.getElementById("root")).render(
             </div>
             <div className="flex min-w-0 h-[260px] lg:h-[370px] flex-col rounded-xl bg-[#F6F6F6] p-2 lg:p-4">
               <img
-                src="/public/Iphone 14 pro 1.png"
+                src="Iphone 14 pro 1.png"
                 alt="iPhone 14 Pro"
                 className="h-[105px] lg:h-[180px] w-full shrink-0 rounded-lg object-cover"
               />
@@ -358,7 +358,7 @@ createRoot(document.getElementById("root")).render(
             </div>
             <div className="flex min-w-0 h-[260px] lg:h-[370px] flex-col rounded-xl bg-[#F6F6F6] p-2 lg:p-4">
               <img
-                src="/public/Iphone 14 pro 1.png"
+                src="Iphone 14 pro 1.png"
                 alt="iPhone 14 Pro"
                 className="h-[105px] lg:h-[180px] w-full shrink-0 rounded-lg object-cover"
               />
@@ -381,7 +381,7 @@ createRoot(document.getElementById("root")).render(
             </div>
             <div className="flex min-w-0 h-[260px] lg:h-[370px] flex-col rounded-xl bg-[#F6F6F6] p-2 lg:p-4">
               <img
-                src="/public/Iphone 14 pro 1.png"
+                src="Iphone 14 pro 1.png"
                 alt="iPhone 14 Pro"
                 className="h-[105px] lg:h-[180px] w-full shrink-0 rounded-lg object-cover"
               />
@@ -404,7 +404,7 @@ createRoot(document.getElementById("root")).render(
             </div>
             <div className="flex min-w-0 h-[260px] lg:h-[370px] flex-col rounded-xl bg-[#F6F6F6] p-2 lg:p-4">
               <img
-                src="/public/Iphone 14 pro 1.png"
+                src="Iphone 14 pro 1.png"
                 alt="iPhone 14 Pro"
                 className="h-[105px] lg:h-[180px] w-full shrink-0 rounded-lg object-cover"
               />
@@ -425,6 +425,7 @@ createRoot(document.getElementById("root")).render(
                 </button>
               </div>
             </div>
+           
           </div>
         </div>
       </div>
