@@ -8,6 +8,7 @@ import { IoIosArrowBack } from "react-icons/io";
 import { HiOutlineAdjustmentsHorizontal } from "react-icons/hi2";
 import "./index.css";
 import img1 from "./assets/Logo.svg";
+import Iphone from "./assets/Iphone 14 pro 1.png";
 
 createRoot(document.getElementById("root")).render(
   <div className="w-full h-dvh overflow-auto flex flex-col" data-theme="light">
@@ -289,7 +290,7 @@ createRoot(document.getElementById("root")).render(
           <div className="grid w-full grid-cols-2 gap-3 pt-4 lg:grid-cols-3 lg:p-3">
             <div className="flex min-w-0 h-[260px] lg:h-[370px] flex-col rounded-xl bg-[#F6F6F6] p-2 lg:p-4">
               <img
-                src="Iphone 14 pro 1.png"
+                src={Iphone}
                 alt="iPhone 14 Pro"
                 className="h-[105px] lg:h-[180px] w-full shrink-0 rounded-lg object-cover"
               />
@@ -312,7 +313,7 @@ createRoot(document.getElementById("root")).render(
             </div>
             <div className="flex min-w-0 h-[260px] lg:h-[370px] flex-col rounded-xl bg-[#F6F6F6] p-2 lg:p-4">
               <img
-                src="Iphone 14 pro 1.png"
+                src={Iphone}
                 alt="iPhone 14 Pro"
                 className="h-[105px] lg:h-[180px] w-full shrink-0 rounded-lg object-cover"
               />
@@ -335,7 +336,7 @@ createRoot(document.getElementById("root")).render(
             </div>
             <div className="flex min-w-0 h-[260px] lg:h-[370px] flex-col rounded-xl bg-[#F6F6F6] p-2 lg:p-4">
               <img
-                src="Iphone 14 pro 1.png"
+                src={Iphone}
                 alt="iPhone 14 Pro"
                 className="h-[105px] lg:h-[180px] w-full shrink-0 rounded-lg object-cover"
               />
@@ -358,7 +359,7 @@ createRoot(document.getElementById("root")).render(
             </div>
             <div className="flex min-w-0 h-[260px] lg:h-[370px] flex-col rounded-xl bg-[#F6F6F6] p-2 lg:p-4">
               <img
-                src="Iphone 14 pro 1.png"
+                src={Iphone}
                 alt="iPhone 14 Pro"
                 className="h-[105px] lg:h-[180px] w-full shrink-0 rounded-lg object-cover"
               />
@@ -381,7 +382,7 @@ createRoot(document.getElementById("root")).render(
             </div>
             <div className="flex min-w-0 h-[260px] lg:h-[370px] flex-col rounded-xl bg-[#F6F6F6] p-2 lg:p-4">
               <img
-                src="Iphone 14 pro 1.png"
+                src={Iphone}
                 alt="iPhone 14 Pro"
                 className="h-[105px] lg:h-[180px] w-full shrink-0 rounded-lg object-cover"
               />
@@ -404,7 +405,7 @@ createRoot(document.getElementById("root")).render(
             </div>
             <div className="flex min-w-0 h-[260px] lg:h-[370px] flex-col rounded-xl bg-[#F6F6F6] p-2 lg:p-4">
               <img
-                src="Iphone 14 pro 1.png"
+                src={Iphone}
                 alt="iPhone 14 Pro"
                 className="h-[105px] lg:h-[180px] w-full shrink-0 rounded-lg object-cover"
               />
@@ -425,7 +426,6 @@ createRoot(document.getElementById("root")).render(
                 </button>
               </div>
             </div>
-           
           </div>
         </div>
       </div>
